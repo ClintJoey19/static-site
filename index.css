@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  .bg-blue-gradient {
+    background: rgb(134,154,255);
+    background: linear-gradient(180deg, rgba(134,154,255,1) 0%, rgba(50,68,156,1) 35%);
+  }
